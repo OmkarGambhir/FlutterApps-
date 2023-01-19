@@ -1,16 +1,12 @@
-# i_am_richy
+# I am richy
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project my one of a starting point for a Flutter application. 🥰
 
-A few resources to get you started if this is your first Flutter project:
+Made a simple app for my first Project in Android Studio 🤗
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/91041201/213513006-01fc898f-79e1-402c-a553-e2ed051f5dff.png)
